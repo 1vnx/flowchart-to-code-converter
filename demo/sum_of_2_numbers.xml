@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <FlowChart>
+
+    <Start Statment = "Start"  Location = "277,10" >
+    </Start> 
+
+    <Declare Variable_Name = "a, b, sum" Variable_Type = "INTEGER" Single_Variable = "True" Size = "0" Statment = "INTEGER  a, b, sum"  Location = "277,95" >
+    </Declare> 
+
+    <Input Statment = "a, b"  Location = "277,180" >
+    </Input> 
+
+    <Assign Statment = "sum = a + b"  Location = "277,265" >
+    </Assign> 
+
+    <Output Statment = "sum"  Location = "277,350" >
+    </Output> 
+
+    <End Statment = "End"  Location = "277,435" >
+    </End> 
+
+</FlowChart>
